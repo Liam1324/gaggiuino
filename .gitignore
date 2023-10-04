@@ -8,5 +8,4 @@ webserver/src/build
 webserver/src/stack/secrets.h
 webserver/data
 gaggiuino.ino.cpp
-extra_defines.ini
 *.code-workspace
